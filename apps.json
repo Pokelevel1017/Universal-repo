@@ -1,0 +1,60 @@
+{
+  "name": "Universal Repo",
+  "identifier": "com.ksign.repo",
+  "sourceURL": "https://Pokelevel1017.github.io/Universal-repo/apps.json",
+  "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfvYdCC0BPFY7WwOoQRDNx939y6BKw0NudA&s",
+  "apps": [
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "developerName": "brandonplank",
+      "subtitle": "iOS application for Flappy Bird",
+      "version": "4.3",
+      "versionDate": "2026-03-11",
+      "versionDescription": "Release 4.3 of Flappy Bird",
+      "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/Flappy_Bird_4.3.ipa",
+      "localizedDescription": "Flappy Bird is an iOS app developed by brandonplank. It can be installed through the Universal Repo and provides features related to flappy bird for iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/Flappy_Bird_4.3.png",
+      "size": 2112303
+    },
+    {
+      "name": "Ksign",
+      "bundleIdentifier": "nya.asami.ksign",
+      "developerName": "asami",
+      "subtitle": "iOS application for Ksign",
+      "version": "1.5.1",
+      "versionDate": "2026-03-11",
+      "versionDescription": "Release 1.5.1 of Ksign",
+      "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/Ksign.ipa",
+      "localizedDescription": "Ksign is an iOS app developed by asami. It can be installed through the Universal Repo and provides features related to ksign for iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/Ksign.png",
+      "size": 14029179
+    },
+    {
+      "name": "Cash App",
+      "bundleIdentifier": "Cash-App-by-ivglitched",
+      "developerName": "Unknown",
+      "subtitle": "iOS application for Cash App",
+      "version": "1.0",
+      "versionDate": "2026-03-11",
+      "versionDescription": "Release 1.0 of Cash App",
+      "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/PropCashapp.ipa",
+      "localizedDescription": "Cash App is an iOS app developed by Unknown. It can be installed through the Universal Repo and provides features related to cash app for iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/PropCashapp.png",
+      "size": 1693860
+    },
+    {
+      "name": "Stremio",
+      "bundleIdentifier": "com.stremio.ios",
+      "developerName": "stremio",
+      "subtitle": "iOS application for Stremio",
+      "version": "1.3.6",
+      "versionDate": "2026-03-11",
+      "versionDescription": "Release 1.3.6 of Stremio",
+      "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/Stremio-1.3.6.ipa",
+      "localizedDescription": "Stremio is an iOS app developed by stremio. It can be installed through the Universal Repo and provides features related to stremio for iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/Stremio-1.3.6.png",
+      "size": 79430168
+    }
+  ]
+}
