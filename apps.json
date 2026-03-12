@@ -39,30 +39,6 @@
       "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/PropCashapp.ipa",
       "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/PropCashapp.png",
       "size": 1693860
-    },
-    {
-      "name": "Scarlet",
-      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
-      "developerName": "DebianArch",
-      "subtitle": "iOS application for Scarlet",
-      "version": "1.0",
-      "versionDate": "2026-03-12",
-      "versionDescription": "Release 1.0 of Scarlet",
-      "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/ScarletAlpha.ipa",
-      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/ScarletAlpha.png",
-      "size": 15515487
-    },
-    {
-      "name": "Stremio",
-      "bundleIdentifier": "com.stremio.ios",
-      "developerName": "stremio",
-      "subtitle": "iOS application for Stremio",
-      "version": "1.3.6",
-      "versionDate": "2026-03-12",
-      "versionDescription": "Release 1.3.6 of Stremio",
-      "downloadURL": "https://dl.strem.io/apple/1.3.6b7/ios/stremio_iOS.ipa",
-      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/Stremio-1.3.6.png",
-      "size": 79430168
     }
   ]
 }
