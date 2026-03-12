@@ -18,6 +18,19 @@
       "size": 2112303
     },
     {
+      "name": "Ipogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "nianticlabs",
+      "subtitle": "iOS application for Ipogo",
+      "version": "0.401.0",
+      "versionDate": "2026-03-11",
+      "versionDescription": "Release 0.401.0 of Ipogo",
+      "downloadURL": "https://ipogo.app/download/ipogo-4.1.6.ipa",
+      "localizedDescription": "Ipogo is an iOS app developed by nianticlabs. It can be installed through the Universal Repo and provides features related to Ipogo for iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/ipogo-4.1.6.png",
+      "size": 152401253
+    },
+    {
       "name": "Ksign",
       "bundleIdentifier": "nya.asami.ksign",
       "developerName": "asami",
@@ -42,6 +55,19 @@
       "localizedDescription": "Cash App is an iOS app developed by Unknown. It can be installed through the Universal Repo and provides features related to cash app for iOS devices.",
       "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/PropCashapp.png",
       "size": 1693860
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZZZ",
+      "developerName": "DebianArch",
+      "subtitle": "iOS application for Scarlet",
+      "version": "1.0",
+      "versionDate": "2026-03-11",
+      "versionDescription": "Release 1.0 of Scarlet",
+      "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/ScarletAlpha.ipa",
+      "localizedDescription": "Scarlet is an iOS app developed by DebianArch. It can be installed through the Universal Repo and provides features related to scarlet for iOS devices.",
+      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/ScarletAlpha.png",
+      "size": 15515487
     },
     {
       "name": "Stremio",
