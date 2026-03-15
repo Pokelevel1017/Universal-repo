@@ -5,6 +5,19 @@
   "iconURL": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdfvYdCC0BPFY7WwOoQRDNx939y6BKw0NudA&s",
   "apps": [
     {
+
+      "name": "EZFN - Fortnite 12.61",
+      "bundleIdentifier": "dev.ezfn.FortniteS1261",
+      "developerName": "ezfn",
+      "subtitle": "iOS application for EZFN - Fortnite",
+      "version": "12.61.0",
+      "versionDate": "2026-03-15",
+      "versionDescription": "Release 12.61.0 of EZFN - Fortnite",
+      "downloadURL": "https://ios.repressoh.it/ipa/c2_beta/12.61-CL-13498980_BETAv3.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/12.61-CL-13498980_BETAv3.png",
+      "size": 131344816
+    },
+    { 
       "name": "Flappy Bird",
       "bundleIdentifier": "org.brandonplank.flappybird",
       "developerName": "brandonplank",
@@ -15,6 +28,18 @@
       "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/Flappy_Bird_4.3.ipa",
       "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/Flappy_Bird_4.3.png",
       "size": 2112303
+    },
+    {
+      "name": "Ipogo",
+      "bundleIdentifier": "com.nianticlabs.pokemongo",
+      "developerName": "nianticlabs",
+      "subtitle": "iOS application for Ipogo",
+      "version": "0.401.1",
+      "versionDate": "2026-03-15",
+      "versionDescription": "Release 0.401.1 of Pokémon GO",
+      "downloadURL": "https://ipogo.app/download/ipogo-4.1.7.ipa",
+      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/ipogo-4.1.7.png",
+      "size": 152295252
     },
     {
       "name": "Ksign",
