@@ -64,18 +64,6 @@
       "downloadURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/apps/PropCashapp.ipa",
       "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/PropCashapp.png",
       "size": 1693860
-    },
-    {
-      "name": "SniperLite",
-      "bundleIdentifier": "com.toyopagroup.picaboo.locationpushservice",
-      "developerName": "toyopagroup",
-      "subtitle": "iOS application for SniperLite",
-      "version": "12.81.0",
-      "versionDate": "2026-03-15",
-      "versionDescription": "Release 12.81.0 of SniperLite",
-      "downloadURL": "https://file.ipaomtk.com/Snapchat/Snapchat-IPAOMTK.COM.ipa",
-      "iconURL": "https://raw.githubusercontent.com/Pokelevel1017/Universal-repo/main/icons/Snapchat-Root-13.70.1.png",
-      "size": 196329201
     }
   ]
 }
